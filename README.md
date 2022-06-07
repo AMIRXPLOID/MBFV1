@@ -1,6 +1,6 @@
 # Free
-# By: SakuraDevOps
-
+# By: AmirXploit
+6
 **Ini Adalah Script Untuk Crack Akun Facebook**
 
 **Warning ⚠️ : This sc is free, don't sell it**
@@ -14,7 +14,7 @@
     $ pip install requests
     $ pip install futures
     $ pip install bs4
-    $ git clone https://github.com/SakuraDevOps/MBFV1
+    $ git clone https://github.com/AMIRXPLOID/MBFV1
     $ cd MBFV1
     $ python kontolenc.py
     
